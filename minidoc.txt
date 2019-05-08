@@ -1,0 +1,4 @@
+Guide d'installation :
+----------------------------
+1) - Copier tous les fichiers dans votre serveur Web
+2) - Creer Base de Donné collection_livre.sql (Mysql) 
