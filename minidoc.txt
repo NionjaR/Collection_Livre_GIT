@@ -1,4 +1,11 @@
 Guide d'installation :
 ----------------------------
 1) - Copier tous les fichiers dans votre serveur Web
-2) - Creer Base de Donné collection_livre.sql (Mysql) 
+2) - Creer Base de Donné a partir de  collection_livre.sql  de ce dossier   (Mysql) 
+
+Lien pour acceder :
+
+  FO : indexFO.html
+  BO : sign_login.html
+
+exemple : http://localhost:81/GithubCollectionLivre/Collection_Livre_GIT/indexFO.html
